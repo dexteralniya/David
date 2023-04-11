@@ -1,2 +1,3 @@
 # David
-Digital marketer, website developer and social media manager
+
+full-stack developer, Front-end and back-end developer, HTML, css, QSL, JAVA, JAVASCRIPT,FIGMA, BOOSTRAP and PHYTON
